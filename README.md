@@ -1,7 +1,7 @@
 # Hi there, I'm Zhengyao Huang 👋
 
 ## About Me
-I am a first-year PhD student in [Mathematical Sciences](https://www.dur.ac.uk/mathematical-sciences/) at **Durham University**. I am working under the supervision of Wilhelm Klingenberg and Fernando Galaz-García.
+I am a first-year PhD student in [Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at **Durham University**. I am working under the supervision of Wilhelm Klingenberg and Fernando Galaz-García.
 
 My research interests lie in the **Calculus of Variations** and **Geometric Measure Theory**. Specifically, I am currently working on the **Optimal Transport** problem.
 
